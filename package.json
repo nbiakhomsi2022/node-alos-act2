@@ -1,0 +1,29 @@
+
+  
+{
+    "dependencies": {
+      "express" : " ^4.17.1 ",
+      "unirest": "^0.6.0"
+    },
+    "name": "node-alos-act",
+    "version": "1.0.0",
+    "description": "node js api project",
+    "main": "index.js",
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/nbiakhomsi2022/node-alos-act2.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/nbiakhomsi2022/node-alos-act2.git"
+    },
+    "homepage": "https://github.com/nbiakhomsi2022/node-alos-act2.git",        
+    "keywords": []
+
+  }
+  
